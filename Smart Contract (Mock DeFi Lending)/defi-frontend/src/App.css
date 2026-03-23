@@ -1,0 +1,20 @@
+.loginBox {
+  background: #1e2a38;
+  padding: 30px;
+  border-radius: 12px;
+  width: 300px;
+  margin: auto;
+}
+
+.topBar {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.logout {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
